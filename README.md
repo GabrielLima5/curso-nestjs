@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/GabrielLima5/curso-nestjs/blob/main/Certificado/certificate.jpg" alt="Certificado NestJS">
+</p>
 # <p align="center">NestJS Fundamentos - Hcode</p>
 
 Este repositório registra minha jornada de aprendizado durante o curso de NestJS, realizado entre 05 de junho de 2024 e 19 de junho de 2024. Ele contém todos os arquivos e recursos relacionados ao curso, incluindo códigos de exemplo, exercícios práticos e projetos desenvolvidos.
